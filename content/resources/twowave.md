@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: twowave.jpg
+type: OCWImage
 uid: 55a611ac-1c38-4d57-5e0c-b016af34694d
 ---

@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: longigw.jpg
+type: OCWImage
 uid: 55649479-0189-29d3-cefd-b31d131fcd89
 ---

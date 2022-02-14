@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: igw_wkbmodes.jpg
+type: OCWImage
 uid: 636ac2c4-7651-ff6f-ecbc-2a3c759d94e2
 ---

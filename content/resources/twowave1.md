@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: twowave1.gif
+type: OCWImage
 uid: 294bb71e-868a-2588-32e9-82e2a7f29297
 ---

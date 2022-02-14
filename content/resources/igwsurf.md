@@ -3,7 +3,12 @@ content_type: resource
 description: Summary of lecture.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/8a010a7682986831fa19a4f9d8f70427_igwsurf.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: igwsurf.pdf
+type: OCWFile
 uid: 8a010a76-8298-6831-fa19-a4f9d8f70427
 ---

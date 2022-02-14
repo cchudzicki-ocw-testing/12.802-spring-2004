@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: igw3.gif
+type: OCWImage
 uid: f3b49d51-e415-b65a-726f-c3b94986281c
 ---

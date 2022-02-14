@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 title: Internal Gravity Waves
+type: CourseSection
 uid: 2403900e-594b-6302-abac-dc16ac6c366d
 ---
 
