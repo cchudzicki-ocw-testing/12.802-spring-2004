@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
