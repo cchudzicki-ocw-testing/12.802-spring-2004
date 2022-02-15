@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: hough.pdf
-type: OCWFile
 uid: 82cba63a-168e-8d2a-017d-255a203eccef
 ---

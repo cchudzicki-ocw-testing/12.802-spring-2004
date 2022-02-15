@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: igwtop12.jpg
-type: OCWImage
 uid: 7e76bf0d-e289-7f44-ec96-8b1eeb03938c
 ---

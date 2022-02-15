@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: sgw.pdf
-type: OCWFile
 uid: b1fcdc17-c07b-2f63-e6b9-09f663b36beb
 ---

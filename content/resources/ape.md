@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ape.pdf
-type: OCWFile
 uid: 1ddcac64-95e6-76d1-af86-fb104a20ea84
 ---

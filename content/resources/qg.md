@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: qg.pdf
-type: OCWFile
 uid: b4a6b0e2-9c28-41f3-7524-86bf0f81dc91
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: thermdyn.pdf
-type: OCWFile
 uid: d75a7bb4-8bfe-0da6-8285-6601f5a36a8b
 ---

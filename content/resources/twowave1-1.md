@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: twowave1.jpg
-type: OCWImage
 uid: f3446f5f-3b11-90c6-fa06-35f041e28c65
 ---

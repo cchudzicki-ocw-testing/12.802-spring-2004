@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: eqbeta.pdf
-type: OCWFile
 uid: 05fd0e8d-a029-5fa1-67de-7121ae44fb05
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: wkb.pdf
-type: OCWFile
 uid: 2e321426-8a08-1c5a-94d8-6f6aa3780b46
 ---

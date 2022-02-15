@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: igwsurf.pdf
-type: OCWFile
 uid: 8a010a76-8298-6831-fa19-a4f9d8f70427
 ---

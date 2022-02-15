@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lte2.pdf
-type: OCWFile
 uid: 5ce5ef1d-7e8d-40cb-1af5-eb511187adca
 ---

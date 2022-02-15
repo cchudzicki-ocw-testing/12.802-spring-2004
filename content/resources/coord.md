@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: coord.pdf
-type: OCWFile
 uid: 09ce034d-7bc2-c068-7974-4ea2d3acf53b
 ---

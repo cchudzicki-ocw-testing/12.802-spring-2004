@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: igwnof.pdf
-type: OCWFile
 uid: 2d9edece-471f-7038-2fef-81bb32680487
 ---

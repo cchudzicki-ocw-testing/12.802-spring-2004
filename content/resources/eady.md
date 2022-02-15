@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: eady.pdf
-type: OCWFile
 uid: 04f78f52-9f85-c90f-3903-e599a3459aef
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: bouss.pdf
-type: OCWFile
 uid: 1d5038c2-c529-1791-5162-9f2fc6cfb379
 ---

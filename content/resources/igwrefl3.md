@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: igwrefl3.jpg
-type: OCWImage
 uid: f6bd0503-bba6-20aa-8355-1d74a20f2f88
 ---

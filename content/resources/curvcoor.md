@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: curvcoor.pdf
-type: OCWFile
 uid: 9b629d7d-5cbd-0f8d-4f60-50cb26562d75
 ---
