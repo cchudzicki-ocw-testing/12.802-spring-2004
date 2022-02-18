@@ -51,7 +51,7 @@ Available Potential Energy
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Internal Gravity Waves]({{< baseurl >}}/pages/lecture-notes/demo-html) 
+{{< resource_link 2403900e-594b-6302-abac-dc16ac6c366d "Internal Gravity Waves" >}} 
 {{< tdclose >}}
 
 {{< trclose >}}
